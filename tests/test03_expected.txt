@@ -1,0 +1,6 @@
+- - - - - - - - - - - - - - - - - - - - - -
+| o o o o o o o o o o o o o o o x x x x x |
+| c c c c c c c c c c o o o o o x       x |
+|           c o o o o o o o o o x x x x x |
+|           c o o o o o o o o o o o o o o |
+- - - - - - - - - - - - - - - - - - - - - -
